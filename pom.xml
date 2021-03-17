@@ -6,12 +6,11 @@
 
     <parent>
         <artifactId>parent</artifactId>
-        <groupId>com.github.jack-bytes</groupId>
-        <version>1.3-parent</version>
+        <groupId>cn.com.lezz</groupId>
+        <version>1.0</version>
     </parent>
 
     <artifactId>common</artifactId>
     <version>1.0-SNAPSHOT</version>
-
 
 </project>
