@@ -1,4 +1,4 @@
-package cn.com.lezz.common.utils.log;
+package cn.coonu.common.utils.log;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

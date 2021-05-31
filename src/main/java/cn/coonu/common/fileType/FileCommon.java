@@ -1,4 +1,4 @@
-package cn.com.lezz.common.fileType;
+package cn.coonu.common.fileType;
 
 import java.io.File;
 

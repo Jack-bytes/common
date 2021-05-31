@@ -1,4 +1,4 @@
-package cn.com.lezz.common.utils.card;
+package cn.coonu.common.utils.card;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

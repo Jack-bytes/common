@@ -1,4 +1,4 @@
-package cn.com.lezz.common.utils.card;
+package cn.coonu.common.utils.card;
 
 import java.io.IOException;
 import java.io.InputStreamReader;
